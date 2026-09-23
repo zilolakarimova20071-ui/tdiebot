@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-.env
-tmp_screenshots/
-data/bot_data.db
-*.png
-.DS_Store
-venv/
-.venv/
